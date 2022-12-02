@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Jogos</string>
+        <string name="salutation">Bem-vindo!</string>
+        <string name="textLogin">Com o nosso aplicativo será muito mais fácil e divertido manter o controle dos seus games!</string>
+        <string name="password">Senha</string>
+        <string name="remember">Lembrar-me</string>
+        <string name="login">Entrar</string>
+        <string name="new_user">Criar uma conta</string>
+        <string name="footer">Desenvolvido por DS2M</string>
+        <string name="account">Nova conta</string>
+        <string name="choose">Vamos escolher uma foto?</string>
+        <string name="data">Dados para autentificação</string>
+        <string name="personal_data">Dados pessoais</string>
+        <string name="question_name">Qual é o seu nome?</string>
+        <string name="birth">"Data de nascimento "</string>
+        <string name="city">Qual é a sua cidade?</string>
+        <string name="level_game">Qual o seu nível game?</string>
+        <string name="favorite_console">Qual o seu console preferido?</string>
+        <string name="sex">Sexo:</string>
+        <string name="gender_masculine">Masculino</string>
+        <string name="gender_feminine">Feminino</string>
+    <string name="finished">Jogos Concluídos</string>
+        <string name="age">Ano</string>
+        <string name="playing">Jogando neste momento</string>
+        <string-array name="consoles">
+                <item>PlayStation 5</item>
+                <item>XBox One</item>
+                <item>XBox 360</item>
+                <item>Super Nintendo</item>
+                <item>Nintendo Switch</item>
+                <item>Nintendo 64</item>
+                <item>Sega Saturn</item>
+        </string-array>
+        <string name="cadastrados">Seus jogos cadastrados</string>
+        <string name="upload">Novo jogo</string>
+        <string name="img_game">Insira uma imagem para o seu game</string>
+        <string name="data_game">Dados para inserir um jogo</string>
+        <string name="name_game">Nome do jogo</string>
+         <string name="creator_game">Criador do jogo</string>
+        <string name="description_game">Descrição do jogo</string>
+        <string name="release_date">Data de lançamento</string>
+        <string name="status_game">Status do jogo</string>
+        <string name="status_option1">Finalizado</string>
+        <string name="status_option2">Jogando</string>
+
+
+</resources>

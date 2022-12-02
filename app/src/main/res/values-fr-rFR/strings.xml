@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeux</string>
+    <string name="salutation">Accueillir!</string>
+    <string name="textLogin">Avec notre application, il sera beaucoup plus facile et amusant de garder une trace de vos jeux!</string>
+    <string name="password">le mot de passe</string>
+    <string name="remember">Rappelle moi</string>
+    <string name="login">Connexion</string>
+    <string name="new_user">Créer un compte</string>
+    <string name="footer">Développé par DS2M</string>
+    <string name="account">Nouveau compte</string>
+    <string name="choose">Allons-nous choisir une photo?</string>
+    <string name="data">Données d\'authentification</string>
+    <string name="personal_data">Données personnelles</string>
+    <string name="question_name">What is your name</string>
+    <string name="city">" Quelle est ta ville ?"</string>
+    <string name="birth">Date de naissance</string>
+    <string name="level_game">" Quel est ton niveau de jeu ?"</string>
+    <string name="favorite_console">" Quelle est votre console préférée ?"</string>
+    <string name="sex">"  Genre:"</string>
+    <string name="gender_masculine">" Masculin"</string>
+    <string name="gender_feminine">" Féminin"</string>
+    <string name="playing">Jouer en ce moment</string>
+    <string name="age">An</string>
+    <string name="finished">Jeux terminés</string>
+    <string-array name="consoles">
+        <item>PlayStation 5</item>
+        <item>Nintendo Switch</item>
+        <item>XBox One</item>
+        <item>XBox 360</item>
+        <item>Super Nintendo</item>
+        <item>Nintendo 64</item>
+        <item>Sega Saturn</item>
+    </string-array>
+    <string name="cadastrados">Vos jeux enregistrés</string>
+    <string name="upload">Nouveau jeu</string>
+    <string name="img_game">Insérer une image pour votre jeu</string>
+    <string name="data_game">Données pour entrer dans un jeu</string>
+    <string name="name_game">Nom du jeu</string>
+    <string name="creator_game">Créateur de jeu</string>
+    <string name="description_game">Description du jeu</string>
+    <string name="release_date">Date de sortie de</string>
+    <string name="status_game">État du jeu</string>
+    <string name="status_option1">Achevé</string>
+    <string name="status_option2">En jouant</string>
+
+</resources>
